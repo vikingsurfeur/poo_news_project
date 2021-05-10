@@ -1,0 +1,13 @@
+{
+    "name": "db/poo-project",
+    "authors": [
+        {
+            "name": "David Bouscarle",
+            "email": "d.bouscarle@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "description": "Project with grafikart to build na news website with OOP Programming"
+}
